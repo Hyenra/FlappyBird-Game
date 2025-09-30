@@ -62,7 +62,7 @@ Flappy Bird, oyuncunun bir kuşu kontrol ederek borular arasından geçmeye çal
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/kullaniciadi/flappybird-csharp.git
+&nbsp;  git clone https://github.com/Hyenra/FlappyBird-Game.git
 
 &nbsp;  ```
 
