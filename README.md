@@ -104,7 +104,7 @@ Flappy Bird, oyuncunun bir kuşu kontrol ederek borular arasından geçmeye çal
 
 \- \*\*Zıplama\*\*: Space tuşu ile kuş yukarı yönde hareket eder
 
-\- \*\*Boru Hareketi\*\*: Borular soldan sağa doğru hareket eder
+\- \*\*Boru Hareketi\*\*: Borular sağdan sola doğru hareket eder
 
 \- \*\*Skor Hesaplama\*\*: Her geçilen boru için 1 puan kazanılır
 
